@@ -1,1 +1,0 @@
-#L'Aiuto Informatico
