@@ -1,2 +1,0 @@
-# LAI
-L'Aiuto Informatico
